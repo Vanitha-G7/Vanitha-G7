@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanitha-g7&label=Profile%20views&color=0e75b6&style=flat" alt="vanitha-g7" /> </p>
 
-- 🔭 I’m currently working on **Bepec**
 
 - 📫 How to reach me **gangalavanitha2001@gmail.com**
 
